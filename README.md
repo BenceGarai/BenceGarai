@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Benooooo
-- 👀 I’m interested in gaming!
+- 👀 I’m interested in software!
 - 🌱 I’m currently learning programming and game design.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
