@@ -1,2 +1,2 @@
-- 🌱 I’m currently learning programming and game design.
+- 🌱 I’m currently learning programming and software design.
 Computer Science Major
